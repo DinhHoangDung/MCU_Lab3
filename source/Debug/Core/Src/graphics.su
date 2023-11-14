@@ -1,0 +1,9 @@
+graphics.c:11:6:initLights	8	static
+graphics.c:30:6:setRedLight1	16	static
+graphics.c:35:6:setGreenLight1	16	static
+graphics.c:40:6:setYellowLight1	16	static
+graphics.c:46:6:setRedLight2	16	static
+graphics.c:51:6:setGreenLight2	16	static
+graphics.c:56:6:setYellowLight2	16	static
+graphics.c:62:6:display7SegmentLED	312	static
+graphics.c:82:6:display7SegmentLight	32	static
