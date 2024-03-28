@@ -4,6 +4,5 @@ Welcome to the Microcontroller Lab repository! This repository contains material
 
 ## Lab Assignments
 
-This lab is using STM32 to create a traffic light system.
-
+This lab is about Communication Interface using UART loop-back communication.
 
